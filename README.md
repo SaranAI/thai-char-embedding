@@ -8,4 +8,5 @@ Implement word2vec, Glove, and FastText model on thai corpus
 ❎ fasttext
 
 ## TSNE 
-CBOW
+- CBOW
+![cbow](https://github.com/SaranAI/thaichar2vec/blob/main/assets/images/tsne_cbow_8.png?raw=true)
