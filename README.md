@@ -27,6 +27,8 @@ If you would like to contribute to this project, we would greatly appreciate it.
     - ❌ Upload perplexity of the model
     - ❌ Analogy evaluation (ราชินี - ราชา + พ่อบ้าน = แม่บ้าน). Please note that character analogy is not as straightforward as word analogy, as characters may not have inherent meanings.
 
+- ❌ Hyperparameter tuning (embedding_size, window_size, ..) 
+
 
 - Testing
     - ❌ Benchmarking for related tasks performance such as Thai tokenization, language model 
